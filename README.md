@@ -3,7 +3,7 @@ Personal Python practice projects. May evolve into larger tools or libraries
 
 ## Contributions
 
-This project isn’t open for direct edits, but I’d still love to see your ideas!  
-Feel free to fork the repo and share your changes through a pull request — I’ll review them personally.
+This repo isn’t open for direct edits, but I’d really love to see any ideas or improvements you come up with.  
+Feel free to fork it and send a pull request — I’ll check it out myself and truly appreciate the effort!
 
-Thanks in advance for anything you contribute 💕
+Big thanks in advance to anyone who shares something 💛
